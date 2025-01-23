@@ -62,7 +62,7 @@ app.layout = html.Div(
     },
     children=[
         # 系統標題
-        html.H2('轉子引擎PHM預診系統', style={'margin': '10px 0'}),
+        html.H2('PHM預診系統', style={'margin': '10px 0'}),
         
         # 「外框」：整個畫面分左右兩欄 (使用 Flex)
         html.Div(
